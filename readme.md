@@ -4,10 +4,16 @@
 
 * Udacity [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
+* Udacity [Git Course] (https://www.udacity.com/course/version-control-with-git--ud123#)
+
 
 # React
 
 * Scott Domes / Musefind [Our Best Practises for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)
+
+* Udemy [Stephen Grider Course](https://www.udemy.com/react-redux/)
+
+* Udemy [Andrew Mead Course](https://www.udemy.com/react-2nd-edition/)
 
 
 # Redux
