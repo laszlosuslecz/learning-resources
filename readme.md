@@ -4,7 +4,7 @@
 
 * Udacity [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
-* Udacity [Git Course] (https://www.udacity.com/course/version-control-with-git--ud123#)
+* Udacity [Git Course](https://www.udacity.com/course/version-control-with-git--ud123#)
 
 
 # React
